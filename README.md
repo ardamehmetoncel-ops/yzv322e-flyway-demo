@@ -97,7 +97,7 @@ ID    Name                                 Price Category
 ──── category_summary view ──────────────────────────────
 Category        Count   Avg Price      Min      Max
 ────────────────────────────────────────────────────────
-Electronics         5     543.38     79.90  1299.99
+Electronics         4     543.38     79.90  1299.99
 Furniture           2     474.00    349.00   599.00
 Accessories         2      67.75     45.50    89.99
 
